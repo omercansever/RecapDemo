@@ -16,7 +16,7 @@
             campaign.CampaignDiscount = 50;
 
             Product product = new Product();
-            product.ProductName = "Red Dead Redemptiom";
+            product.ProductName = "Red Dead Redemption";
             product.ProductPrice = 1000;
 
 
